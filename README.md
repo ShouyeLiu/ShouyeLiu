@@ -8,7 +8,7 @@
 
 - 🐭 Focus on R,C++ and glad to try new language on data mining.
 - 📩 Reach me by [email](mailto:shouye.liu@uq.edu.au).
-- 💫 I'm proud of who I am, what I have built, and what I am building.
+- 💫 I'm proud of who I am, what I have built, what I am interested in, and what I am building.
 
 Some cool projects I contribute to:
 - [GCTA-mBAT-combo](https://yanglab.westlake.edu.cn/software/gcta/#mBAT-combo)
