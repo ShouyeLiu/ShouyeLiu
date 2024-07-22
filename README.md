@@ -10,19 +10,18 @@
 
  <!-- About section -->
 
-### Hi, I'm statistical method and software developer**. 👋
-
 <a href="https://github.com/ShouyeLiu?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ShouyeLiu&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="45%" />
 </a>
 
+- 🔭 I'm statistical method and software developer
 - 🐭 Focus on R,C++ and glad to try new language on data mining.
 - 📩 Reach me by [shouye.liu@uq.edu.au](mailto:shouye.liu@uq.edu.au).
 - 💫 I'm proud of who I am, what I have built, what I am interested in, and what I am building.
 
 Some cool projects I contribute to:
-- [GCTA-mBAT-combo](https://yanglab.westlake.edu.cn/software/gcta/#mBAT-combo)
-- [GCTB-SBayesRC](https://cnsgenomics.com/software/gctb/#SBayesRCTutorial)
+- [**GCTA-mBAT-combo**](https://yanglab.westlake.edu.cn/software/gcta/#mBAT-combo)
+- [**GCTB-SBayesRC**](https://cnsgenomics.com/software/gctb/#SBayesRCTutorial)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShouyeLiu)
 
