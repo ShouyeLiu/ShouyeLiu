@@ -1,4 +1,17 @@
-<!-- <a href="https://busy.moe/"><img align="right" src="https://busy.moe/badges/2?style=for-the-badge"/></a> -->
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Shouye Liu</h3>
+
+<!-- Profile Views -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShouyeLiu&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
+<p align="center">
+  <a href="https://shouyeliu.github.io/">Website</a> •
+  <a href="https://twitter.com/LiuShouye">Twitter</a>
+</p>
+
+ <!-- About section -->
 
 ### Hi, I'm statistical method and software developer**. 👋
 
@@ -17,10 +30,29 @@ Some cool projects I contribute to:
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShouyeLiu)
 
 
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+  <!-- GitHub section -->
 
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ 
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShouyeLiu" alt="Gift's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShouyeLiu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
-<!-- THE END -->
+
+<!-- GitHub section: END -->
+
+<!--
+**ShouyeLiu/ShouyeLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+ 
