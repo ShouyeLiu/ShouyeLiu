@@ -17,7 +17,7 @@
 </a>
 
 - 🐭 Focus on R,C++ and glad to try new language on data mining.
-- 📩 Reach me by [email](mailto:shouye.liu@uq.edu.au).
+- 📩 Reach me by [shouye.liu@uq.edu.au](mailto:shouye.liu@uq.edu.au).
 - 💫 I'm proud of who I am, what I have built, what I am interested in, and what I am building.
 
 Some cool projects I contribute to:
