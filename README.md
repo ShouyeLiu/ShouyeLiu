@@ -7,7 +7,7 @@
 </a>
 
 - 🐭 Focus on R,C++ and glad to try new language on data mining.
-- 📩 Reach me by [sending me an email](mailto:i@github.red).
+- 📩 Reach me by [email](mailto:shouye.liu@uq.edu.au).
 - 💫 I'm proud of who I am, what I have built, and what I am building.
 
 Some cool gadgets I made:
