@@ -3,9 +3,6 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShouyeLiu&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
 <p align="center">
   <a href="https://shouyeliu.github.io/">Website</a> •
   <a href="https://twitter.com/LiuShouye">Twitter</a>
