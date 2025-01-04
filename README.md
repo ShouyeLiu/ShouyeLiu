@@ -10,9 +10,9 @@
 
  <!-- About section -->
 
-<a href="https://github.com/ShouyeLiu?tab=repositories">
+<!-- <a href="https://github.com/ShouyeLiu?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ShouyeLiu&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="45%" />
-</a>
+</a> -->
 
 - 🔭 I'm statistical method and software developer
 - 🐭 Focus on R,C++ and glad to try new language on data mining.
