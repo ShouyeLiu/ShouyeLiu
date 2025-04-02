@@ -15,7 +15,7 @@
 </a> -->
 
 - 🔭 I'm statistical method and software developer
-- 🐭 Focus on R,C++ and glad to try new language on data mining.
+- 🐭 Focus on R,C++, julia and glad to try new language on data mining.
 - 📩 Reach me by [shouye.liu@uq.edu.au](mailto:shouye.liu@uq.edu.au).
 - 💫 I'm proud of who I am, what I have built, what I am interested in, and what I am building.
 
