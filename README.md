@@ -26,6 +26,7 @@ Some projects I contribute to:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShouyeLiu)
 
+[![Visitor Map](https://visitcount.itsvg.in/api?id=ShouyeLiu&icon=0&color=0)](https://visitcount.itsvg.in)
 
   <!-- GitHub section -->
 
