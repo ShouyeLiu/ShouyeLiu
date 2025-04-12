@@ -21,8 +21,8 @@
 
 Some projects I contribute to:
 - [**SBayesOmics**](https://github.com/ShouyeLiu/SBayesOmics)
-- [**GCTA-mBAT-combo**](https://yanglab.westlake.edu.cn/software/gcta/#mBAT-combo)
 - [**GCTB-SBayesRC**](https://cnsgenomics.com/software/gctb/#SBayesRCTutorial)
+- [**GCTA-mBAT-combo**](https://yanglab.westlake.edu.cn/software/gcta/#mBAT-combo)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShouyeLiu)
 
