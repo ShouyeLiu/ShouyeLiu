@@ -20,7 +20,6 @@
 - 💫 I'm proud of who I am, what I have built, what I am interested in, and what I am building.
 
 Some projects I contribute to:
-- [**SBayesOmics**](https://github.com/ShouyeLiu/SBayesOmics)
 - [**GCTB-SBayesRC**](https://cnsgenomics.com/software/gctb/#SBayesRCTutorial)
 - [**GCTA-mBAT-combo**](https://yanglab.westlake.edu.cn/software/gcta/#mBAT-combo)
 
